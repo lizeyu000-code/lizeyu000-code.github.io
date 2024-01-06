@@ -13,7 +13,7 @@ sections:
       email: lizeyu@sdust.edu.cn
       phone: 0532-80681170
       address:
-        street: 
+        street: 山东科技大学J6-555室
         city: 青岛
         region: 山东
         postcode: '266590'
@@ -22,7 +22,6 @@ sections:
       coordinates:
         latitude: '36.00042'
         longitude: '-120.12200'
-      directions: 
       office_hours:
         - 'Workday 10:00 to 16:00 (Normally)'
       appointment_url: 'https://calendly.com'
