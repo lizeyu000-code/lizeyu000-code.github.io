@@ -21,7 +21,7 @@ sections:
         country_code: PRC
       coordinates:
         latitude: '36.00042'
-        longitude: '-120.12200'
+        longitude: '120.12200'
       office_hours:
         - 'Workday 10:00 to 16:00 (Normally)'
       appointment_url: 'https://calendly.com'
