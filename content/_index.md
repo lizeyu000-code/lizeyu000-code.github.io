@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Navigation & Mapping Laboratory
       image:
-        filename: welcome.jpg
+        filename: Logo-1.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The Navigation & Mapping Laboratory has been a group of research and visitors interested in multiple sensor based Simultaneous Localization and Mapping (SLAM) research. Its predecessor is smart perception group in Shandong University of Science and Technology.
+        欢迎加入...
   
   - block: collection
     content:
