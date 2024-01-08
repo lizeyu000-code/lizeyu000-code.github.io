@@ -10,12 +10,12 @@ sections:
       title: |
         Navigation & Mapping Laboratory
       image:
-        filename: Logo-1.jpg
+        filename: Navigation & Mapping Group.jpg
       text: |
         <br>
         
-        The Navigation & Mapping Laboratory has been a group of research and visitors interested in multiple sensor based Simultaneous Localization and Mapping (SLAM) research. Its predecessor is smart perception group in Shandong University of Science and Technology.
-        欢迎加入...
+        The Navigation & Mapping Group has been a number of researchers and visitors who interested in multiple sensor based Simultaneous Localization and Mapping (SLAM)and related research. Its predecessor is smart perception group in Shandong University of Science and Technology.
+        欢迎做事靠谱、有强烈求知欲望、编程（Matlab\C++\python）基础好、喜欢折腾、看英文不费劲的同学加入（句中描述有优先级顺序）
   
   - block: collection
     content:
