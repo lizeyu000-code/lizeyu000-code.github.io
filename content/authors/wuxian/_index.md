@@ -1,10 +1,10 @@
 ---
 # Display name
-title: xian wu 伍鲜
+title: Xian Wu 伍鲜
 
 # Full name (for SEO)
-first_name: xian 
-last_name: wu
+first_name: Xian 
+last_name: Wu
 
 # Username (this should match the folder name)
 authors:
