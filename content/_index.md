@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Navigation & Mapping Laboratory
+        Navigation & Mapping Group
       image:
         filename: Navigation & Mapping Group.jpg
       text: |
